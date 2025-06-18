@@ -36,7 +36,7 @@ status-website:
   themeUrl: https://status.api.iad3.rackspacecloud.com/flex.css
   name: Rackspace Flex Cloud
   introTitle: "Flex API Status"
-  customHeadHtml: '<meta http-equiv="refresh" content="45">'
+  customHeadHtml: '<meta http-equiv="refresh" content="90">'
   #introMessage:
   navbar:
     - title: IAD Status
