@@ -1,5 +1,5 @@
 # Change these first
-owner: rackerlabs # Your GitHub organization or username, where this repository lives
+owner: the2hill # Your GitHub organization or username, where this repository lives
 repo: rs-flex-uptime-iad # The name of this repository
 
 sites:
