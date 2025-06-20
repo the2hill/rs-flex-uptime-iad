@@ -40,18 +40,20 @@
     "url": "https://keystone.api.iad3.rackspacecloud.com/v3",
     "icon": "https://icons.duckduckgo.com/ip3/keystone.api.iad3.rackspacecloud.com.ico",
     "slug": "keystone-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 268,
-    "timeWeek": 326,
-    "timeMonth": 326,
-    "timeYear": 326,
-    "dailyMinutesDown": {}
+    "time": 302,
+    "timeDay": 199,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   },
   {
     "name": "octavia-api",
