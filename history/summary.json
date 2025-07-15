@@ -130,18 +130,20 @@
     "url": "https://cloudformation.api.iad3.rackspacecloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloudformation.api.iad3.rackspacecloud.com.ico",
     "slug": "cloudformation-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 286,
-    "timeWeek": 163,
-    "timeMonth": 237,
-    "timeYear": 237,
-    "dailyMinutesDown": {}
+    "time": 233,
+    "timeDay": 194,
+    "timeWeek": 155,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   },
   {
     "name": "placement-api",
