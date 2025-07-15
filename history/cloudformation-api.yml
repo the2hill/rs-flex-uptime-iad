@@ -1,7 +1,7 @@
 url: https://cloudformation.api.iad3.rackspacecloud.com
-status: down
-code: 500
-responseTime: 73
-lastUpdated: 2025-07-15T23:18:59.426Z
+status: up
+code: 300
+responseTime: 106
+lastUpdated: 2025-07-15T23:45:03.810Z
 startTime: 2025-06-18T18:48:17.740Z
 generator: Upptime <https://github.com/upptime/upptime>
