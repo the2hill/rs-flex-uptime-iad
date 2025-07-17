@@ -1,7 +1,7 @@
 url: https://heat.api.iad3.rackspacecloud.com
-status: down
-code: 500
-responseTime: 105
-lastUpdated: 2025-07-17T14:51:49.022Z
+status: up
+code: 300
+responseTime: 82
+lastUpdated: 2025-07-17T15:59:44.189Z
 startTime: 2025-06-18T18:48:16.902Z
 generator: Upptime <https://github.com/upptime/upptime>
