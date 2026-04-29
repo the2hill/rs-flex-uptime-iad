@@ -1,7 +1,7 @@
 url: https://barbican.api.iad3.rackspacecloud.com
-status: down
-code: 525
-responseTime: 215
-lastUpdated: 2026-04-29T03:59:01.947Z
+status: up
+code: 300
+responseTime: 220
+lastUpdated: 2026-04-29T06:29:29.617Z
 startTime: 2025-06-18T18:48:18.605Z
 generator: Upptime <https://github.com/upptime/upptime>
