@@ -1,7 +1,7 @@
 url: https://nova.api.iad3.rackspacecloud.com
-status: down
-code: 525
-responseTime: 270
-lastUpdated: 2026-04-29T03:58:45.962Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2026-04-29T06:29:03.659Z
 startTime: 2025-06-18T18:48:14.654Z
 generator: Upptime <https://github.com/upptime/upptime>
