@@ -1,7 +1,7 @@
 url: https://cinder.api.iad3.rackspacecloud.com
-status: down
-code: 525
-responseTime: 228
-lastUpdated: 2026-04-29T03:58:56.395Z
+status: up
+code: 300
+responseTime: 352
+lastUpdated: 2026-04-29T06:29:21.330Z
 startTime: 2025-06-18T18:48:17.348Z
 generator: Upptime <https://github.com/upptime/upptime>
