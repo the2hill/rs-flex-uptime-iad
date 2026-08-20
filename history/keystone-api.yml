@@ -1,7 +1,7 @@
 url: https://keystone.api.iad3.rackspacecloud.com/v3
-status: down
-code: 503
-responseTime: 18
-lastUpdated: 2026-08-20T07:56:03.810Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2026-08-20T08:34:18.159Z
 startTime: 2025-06-18T18:48:15.601Z
 generator: Upptime <https://github.com/upptime/upptime>
